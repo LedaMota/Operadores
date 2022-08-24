@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\Operadores\bin\Debug\Operadores.exe.config
+C:\WorkspaceLediane\Operadores\bin\Debug\Operadores.exe
+C:\WorkspaceLediane\Operadores\bin\Debug\Operadores.pdb
+C:\WorkspaceLediane\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Operadores\obj\Debug\Operadores.exe
+C:\WorkspaceLediane\Operadores\obj\Debug\Operadores.pdb
+C:\WorkspaceLediane\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
